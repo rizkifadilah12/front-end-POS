@@ -1,0 +1,24 @@
+.header{
+    margin-left: 50px;
+    margin-top: 8px;
+}
+
+.cart{
+    border-style: groove;
+    height: 100%;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+.row{
+    margin-bottom: 20px;
+}
+
+.tx-center{
+    text-align: center;
+}

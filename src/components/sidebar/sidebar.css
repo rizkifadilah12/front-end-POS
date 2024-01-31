@@ -1,0 +1,28 @@
+/* .sidebar{
+    text-align: left;
+    margin-right: -12px;
+    margin-left: -12px;
+    border-style: groove;
+    height: 100%;
+} */
+
+.sidebar-link{
+    color: black;
+    font-size: 20px;
+    margin-top: 2px;
+}
+
+.navdropdown{
+    margin-top: 2px;
+    margin-left: 20%;
+    text-shadow: 2px gray;
+}
+
+.none{
+    text-decoration: none;
+    color: black;
+
+    &:hover{
+        color: green;
+    }
+}
